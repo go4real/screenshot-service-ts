@@ -24,6 +24,11 @@
     "@aws-cdk/aws-sns": "1.36.1",
     "@aws-cdk/aws-sns-subscriptions": "1.36.1",
     "@aws-cdk/aws-sqs": "1.36.1",
+    "@aws-cdk/aws-ec2": "1.36.1",
+    "@aws-cdk/aws-ecs": "1.36.1",
+    "@aws-cdk/aws-s3": "1.36.1",
+    "@aws-cdk/aws-dynamodb": "1.36.1",
+    "@aws-cdk/aws-ecs-patterns": "1.36.1",
     "@aws-cdk/core": "1.36.1"
   }
 }

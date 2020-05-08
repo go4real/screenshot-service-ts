@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 import * as cdk from '@aws-cdk/core';
-// import { ScreenshotServiceTsStack } from '../lib/screenshot-service-ts-stack';
 import { BaseStack } from '../lib/base';
 import { WorkerStack } from '../lib/worker';
 import { ApiStack } from '../lib/api';
@@ -26,4 +25,3 @@ class App extends cdk.App {
 }
 
 const app = new App();
-// new ScreenshotServiceTsStack(app, 'ScreenshotServiceTsStack');

@@ -1,7 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# Welcome to Screenshot Service CDK TypeScript project!
 
-You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`ScreenshotServiceTsStack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
+You should explore the contents of this project. It demonstrates a CDK app with an instance of  stacks (`BaseStack`, `ApiStack`, `WorkerStack`).
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
